@@ -31,6 +31,7 @@
 		5C8A19F6240A393900F68F20 /* School.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = School.hpp; sourceTree = "<group>"; };
 		5C8A19F8240A395F00F68F20 /* SpecialSchool.cpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.cpp; path = SpecialSchool.cpp; sourceTree = "<group>"; };
 		5C8A19F9240A395F00F68F20 /* SpecialSchool.hpp */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.cpp.h; path = SpecialSchool.hpp; sourceTree = "<group>"; };
+		5C8A19FB240A558900F68F20 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -68,6 +69,7 @@
 				5C8A19F6240A393900F68F20 /* School.hpp */,
 				5C8A19F8240A395F00F68F20 /* SpecialSchool.cpp */,
 				5C8A19F9240A395F00F68F20 /* SpecialSchool.hpp */,
+				5C8A19FB240A558900F68F20 /* README.md */,
 			);
 			path = LR3;
 			sourceTree = "<group>";
